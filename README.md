@@ -1,4 +1,10 @@
-# Hi there 👋
+# Hi there 👋 I'm chungwoox2
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;JavaScript+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&color=58a6ff&size=20)
+
+</div>
 
 <div align="center">
 
