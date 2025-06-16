@@ -1,10 +1,4 @@
-# Hey! 👋 chungwoox2 here
-
-<div align="center">
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+## 👋 chungwoox2
 
 <div align="center">
 
